@@ -1,2 +1,2 @@
-# Exercicios URI
- Exercicios do URI feitos em Python
+# Exercícios URI
+Exercícios feitos na linguagem Python
