@@ -12,7 +12,7 @@ while True:
         palavra = input()
         repete = {}
         cont = 0
-        palindromo(palavra, repete)
+        repete = palindromo(palavra, repete)
         for qtd in repete.values():
             if qtd % 2 != 0:
                 cont += 1
